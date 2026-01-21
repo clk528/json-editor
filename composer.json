@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/json-editor",
+    "name": "clk528/json-editor",
     "description": "JSON Editor for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/json-editor",
+    "homepage": "https://github.com/clk528/json-editor",
     "license": "MIT",
     "authors": [
         {
